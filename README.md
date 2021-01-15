@@ -293,3 +293,8 @@ Agora só iniciar o servidor
 ```Shell
 php artisan serve
 ```
+
+
+## Fontes
+
+> Aplicação tirada do site <a href="https://www.positronx.io/laravel-file-upload-with-validation/">Positronx site</a>
