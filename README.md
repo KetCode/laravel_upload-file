@@ -61,6 +61,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+#####
+#####
+#####
 # Método de instalação do projeto
 
 ## Criando o projeto
@@ -297,4 +300,4 @@ php artisan serve
 
 ## Fontes
 
-> Aplicação tirada do site <a href="https://www.positronx.io/laravel-file-upload-with-validation/">Positronx site</a>
+> Aplicação tirada do site <a href="https://www.positronx.io/laravel-file-upload-with-validation/">Positronx</a>
